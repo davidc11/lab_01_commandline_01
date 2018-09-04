@@ -260,31 +260,31 @@ What command did you use?
 25. What command is used to print out your current working directory?
 ----------
 
-
+pwd
 
 ==========
 26. What flag do I pass to ls to print out all files?
 ----------
 
-
+None, just enter ls.
 
 ==========
 27. What's the shortcut for home directory?
 ----------
 
-
+cd ~
 
 ==========
 28. What's a pathname?
 ----------
 
-
+the name assigned to a certain file or directory which is used to access it directly.
 
 ==========
 29. What's a directory?
 ----------
 
-
+A directory is basically a file.
 
 ==========
 30. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
